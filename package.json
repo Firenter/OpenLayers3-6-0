@@ -1,6 +1,19 @@
 {
-  "name": "openlayers",
+  "name": "openlayers3-6-0",
+  "version": "1.0.0",
+  "description": "Openlayers 3.6.0 test",
   "main": "ol.js",
-  "version": "3.6.0",
-  "description": "OpenLayers 3.6.0 test repo"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firenter/OpenLayers3-6-0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firenter/OpenLayers3-6-0/issues"
+  },
+  "homepage": "https://github.com/Firenter/OpenLayers3-6-0#readme"
 }
